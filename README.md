@@ -55,8 +55,8 @@ id,name,course,marks,grade
 
 ### Example:
 
-101,John Doe,Computer Science,85,B
-102,Alice Smith,Mathematics,92,A
+- 101,John Doe,Computer Science,85,B
+- 102,Alice Smith,Mathematics,92,A
 
 ---
 
@@ -180,6 +180,7 @@ If you find this project helpful:
 - 🧠 Use it for learning and improvement
 
 **Happy Coding!** 🚀
+
 
 
 
