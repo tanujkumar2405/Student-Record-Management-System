@@ -164,7 +164,9 @@ id,name,course,marks,grade
 ## 👨‍💻 Author
 
 **Tanuj Kumar**
+
 B.Tech CSE Student
+
 Cybersecurity & Systems Enthusiast
 
 ---
@@ -180,6 +182,7 @@ If you find this project helpful:
 - 🧠 Use it for learning and improvement
 
 **Happy Coding!** 🚀
+
 
 
 
