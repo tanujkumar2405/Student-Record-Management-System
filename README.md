@@ -36,12 +36,13 @@ All data is stored in a CSV file (`student.csv`) to simulate a lightweight datab
 
 ## 📂 Project Structure
 
+```
 Student-Record-Management-System/
 │
 ├── main.c # Source code
 ├── student.csv # Data storage file
 └── README.md # Project documentation
-
+```
 
 ---
 
@@ -179,5 +180,6 @@ If you find this project helpful:
 - 🧠 Use it for learning and improvement
 
 **Happy Coding!** 🚀
+
 
 
